@@ -1,0 +1,68 @@
+body {
+	background-color: ead1ff;
+	margin-top: 1em;
+		/* margin-left:5%;
+		margin-right:20%;
+		margin-bottom:100px;*/
+	padding:0; 
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* footer {
+    position: absolute;
+	left: 15%;
+	bottom: 0;
+	right: 0;
+    height:0px; //same height as the margin to the bottom of the body
+}
+*/
+div.content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+} 
+
+
+div.calendar {
+  position: relative;
+  max-width: 100%;
+  width: 800px;
+  height: 600px;
+  margin-left: 0px;
+
+}
+
+h1 {
+	display: block;
+	font-size: 1.5em;
+	margin-bottom: 0em;
+}
+
+h2 {
+	display: block;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+h3 {
+	display: block;
+	font-size: 1em;
+	font-weight: bold;
+}
+a:link {
+	color: blue;
+	color
+}
+
+a:visited {
+  color: hotpink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
